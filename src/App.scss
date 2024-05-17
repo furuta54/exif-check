@@ -1,0 +1,25 @@
+.dropzone {
+  margin: 0 auto;
+  width: 95%;
+  height: 100px;
+  background-color: #eee;
+  border: dashed 3px #ddd;
+  border-radius: 10px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.results {
+  margin: 20px auto 0px;
+  max-width: 95%;
+  .results-image {
+    max-width: 30vw;
+  }
+}
+
+.copyright {
+  margin-top: 20px;
+}
